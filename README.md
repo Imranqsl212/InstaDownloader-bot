@@ -16,10 +16,10 @@ This Telegram bot allows users to download videos from Instagram by simply sendi
 
 ## Installation
 
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/instagram-video-downloader-bot.git
-   cd instagram-video-downloader-bot
+   git clone [https://github.com/yourusername/instagram-video-downloader-bot.git](https://github.com/Imranqsl212/InstaDownloader-bot/tree/master)
    ```
 
 2. Install the required libraries:
